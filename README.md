@@ -6,7 +6,7 @@
 
 ### Fetal health analysis     
 
-Код: Fetal_health_analysis.ipynb     
+Код: Fetal_health_analysis.ipynb
 
 Датасет: https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification     
 
